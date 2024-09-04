@@ -1,5 +1,5 @@
-# IMDb Database Project
-## POO - Andronache Madalina-Georgiana 322CC
+# MiniIMDb: A Java-Based Movie and TV Show Database
+## OOP - Andronache Madalina-Georgiana
 
 ## Overview
 
